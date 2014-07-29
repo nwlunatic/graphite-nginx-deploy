@@ -1,0 +1,8 @@
+Django==1.5.8
+Twisted==11.1.0
+argparse==1.2.1
+django-tagging==0.3.2
+txAMQP==0.6.2
+whisper==0.9.12
+wsgiref==0.1.2
+zope.interface==4.1.1
